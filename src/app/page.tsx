@@ -1,3 +1,3 @@
-export default function Home() {
-  return <div>zxc</div>;
+export default function HomePage() {
+  return <div>zxcPage!</div>;
 }
